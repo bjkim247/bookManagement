@@ -1,5 +1,6 @@
 # bookManagement
 sql 쿼리문
+
 create table VIDEO(
 no number not null,
 name varchar2(24) not null,
